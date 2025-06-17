@@ -1,1 +1,7 @@
 package org.teache;
+
+
+student{
+	
+	
+}
