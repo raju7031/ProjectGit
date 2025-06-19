@@ -5,3 +5,5 @@ student{
 	
 	
 }
+ System.out.printin();
+ 
